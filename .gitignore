@@ -4,6 +4,8 @@ __pycache__/
 .venv
 env/
 venv/
+flaskenv
 ENV/
 env.bak/
 venv.bak/
+*.pyc
